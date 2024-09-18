@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "About Me Zirui Wan"
+title: "About Me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,14 +17,15 @@ Transport Protocl (Congestion Control)
 Datacenter Network
 
 # Publications
-- [**INFOCOM'24**] BiCC: Bilateral Congestion Control in Cross-datacenter RDMA Networks
+-  [**INFOCOM'24**] BiCC: Bilateral Congestion Control in Cross-datacenter RDMA Networks
    International Conference on Computer Communications, 2024
-  ***Zirui Wan**, Jiao Zhang, Mingxuan Yu, Junwei Liu, Jun Yao, Xinghua Zhao, Tao Huang
+   ***Zirui Wan**, Jiao Zhang, Mingxuan Yu, Junwei Liu, Jun Yao, Xinghua Zhao, Tao Huang
 
 - [**CoNEXT'24**] RECC: Joint Congestion Control Based on RTT and ECN for High-speed RDMA Networks
-    International Conference on emerging Networking EXperiments and Technologies
-  ***Zirui Wan**, Jiao Zhang, Haoran Wei, Zhuo Jiang, Xiaolong Zhong, Kefei Liu, Wenfei Wu, Huaping Zhou, Tian Pan, Tao Huang
+   International Conference on emerging Networking EXperiments and Technologies
+   ***Zirui Wan**, Jiao Zhang, Haoran Wei, Zhuo Jiang, Xiaolong Zhong, Kefei Liu, Wenfei Wu, Huaping Zhou, Tian Pan, Tao Huang
 
 - [**APNet'24**] Rethinking Intra-host Congestion Control in RDMA Networks
-    Asia-Pacific Workshop on Networking
-  ***Zirui Wan**, Jiao Zhang, Yuxiang Wang, Kefei Liu, Haoyu Pan, Tao Huang
+   Asia-Pacific Workshop on Networking
+   ***Zirui Wan**, Jiao Zhang, Yuxiang Wang, Kefei Liu, Haoyu Pan, Tao Huang
+   *<font color=blue> Awarded Best Student Paper!</font>*
