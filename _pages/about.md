@@ -12,9 +12,9 @@ I am Zirui Wan, a fifth year Phd student from Beijing University of Posts and Te
 
 Research Interests
 ======
-RDMA Network  
-Transport Protocl (Congestion Control)  
-Datacenter Network  
+-RDMA Network  
+-Transport Protocol (Congestion Control)  
+-Datacenter Network  
 
 # Publications
 -  [**INFOCOM'24**] BiCC: Bilateral Congestion Control in Cross-datacenter RDMA Networks  
@@ -28,4 +28,4 @@ Datacenter Network
 - [**APNet'24**] Rethinking Intra-host Congestion Control in RDMA Networks  
    Asia-Pacific Workshop on Networking  
    ***Zirui Wan**, Jiao Zhang, Yuxiang Wang, Kefei Liu, Haoyu Pan, Tao Huang*  
-   *<font color=blue> Awarded Best Student Paper!</font>*  
+   *<font color=blue> Award Best Student Paper!</font>*  
