@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Zirui Wan 万梓睿"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Zirui Wan"
+description              : &description "Ph.D. student at BUPT"
 url                      : https://omega00.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "omega00.github.io"
@@ -21,10 +21,10 @@ repository               : "omega00.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ziruiwan-idf.jpg"
   name             : "Zirui Wan"
   pronouns         : # example: "she/her"  
-  bio              : "Phd student at BUPT"
+  bio              : "Ph.D. student at BUPT"
   location         : "Beijing, China"
   employer         : #"Red Brick University"
   uri              : # URL
