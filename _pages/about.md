@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth year Phd student from Beijing University of Posts and Telecommunications (Supervisor: Prof. Jiao Zhang). I received my B.S. from Beijing University of Posts and Telecommunications in 2020. My main research interests include RDMA network, transport protocol and datacenter network.
+I am a fifth year Phd student from Beijing University of Posts and Telecommunications (Supervisor: [Prof. Jiao Zhang](https://jiao-bupt.github.io/)). I received my B.S. from Beijing University of Posts and Telecommunications in 2020.
 
 Research Interests
 ======
