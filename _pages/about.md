@@ -16,6 +16,14 @@ Research Interests
 - Datacenter Network  
 
 # Publications
+-  [**INFOCOM'25**] ACC: Addressing Performance Limitations in Datacenters with Atomic Congestion Control  
+   IEEE International Conference on Computer Communications, 2024  
+   ***Zirui Wan**, Jiao Zhang, Shuai Cheng, Ying Chen, Tian Pan, Pingping Lin, Tao Huang*
+
+-  [**IEEE Communication Magazine**] Rethinking Congestion Management in Intra-host Networks  
+   IEEE Communication Magazine  
+   ***Zirui Wan**, Jiao Zhang, Yuxiang Wang, Kefei Liu, Yongchen Pan, Tao Huang*
+
 -  [**INFOCOM'24**] BiCC: Bilateral Congestion Control in Cross-datacenter RDMA Networks  
    IEEE International Conference on Computer Communications, 2024  
    ***Zirui Wan**, Jiao Zhang, Mingxuan Yu, Junwei Liu, Jun Yao, Xinghua Zhao, Tao Huang*
