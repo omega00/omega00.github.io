@@ -16,6 +16,10 @@ Research Interests
 - Datacenter Network  
 
 # Publications
+-  [**TON'25**] RHCC: Revisiting Intra-host Congestion Control in RDMA Networks  
+   IEEE/ACM Transactions on Networking, 2025  
+   ***Zirui Wan**, Jiao Zhang, Yuxiang Wang, Kefei Liu, Haoyu Pan, Yongchen Pan, Tao Huang*
+
 -  [**INFOCOM'25**] ACC: Addressing Performance Limitations in Datacenters with Atomic Congestion Control  
    IEEE International Conference on Computer Communications, 2025  
    ***Zirui Wan**, Jiao Zhang, Shuai Cheng, Ying Chen, Tian Pan, Pingping Lin, Tao Huang*
