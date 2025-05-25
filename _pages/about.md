@@ -16,6 +16,14 @@ Research Interests
 - Datacenter Network  
 
 # Publications
+-  [**TON'25**] Re-Architecting Traffic Control in Cross-Datacenter RDMA Networks
+   IEEE/ACM Transactions on Networking, 2025
+   ***Zirui Wan**, Jiao Zhang, Yuzhen Su, Haoyu Pan, Mingxuan Yu, Yuan Li, Tao Huang*
+
+-  [**IWQoS'25**] Achilles: An Enhanced Scheme for Reactive Transport in Datacenters
+   IEEE/ACM International Symposium on Quality of Service
+   ***Zirui Wan**, Jiao Zhang, Haoyu Pan, Tao Huang*
+
 -  [**TON'25**] RHCC: Revisiting Intra-host Congestion Control in RDMA Networks  
    IEEE/ACM Transactions on Networking, 2025  
    ***Zirui Wan**, Jiao Zhang, Yuxiang Wang, Kefei Liu, Haoyu Pan, Yongchen Pan, Tao Huang*
@@ -24,8 +32,8 @@ Research Interests
    IEEE International Conference on Computer Communications, 2025  
    ***Zirui Wan**, Jiao Zhang, Shuai Cheng, Ying Chen, Tian Pan, Pingping Lin, Tao Huang*
 
--  [**IEEE Communication Magazine**] Rethinking Congestion Management in Intra-host Networks  
-   IEEE Communication Magazine  
+-  [**IEEE Communications Magazine**] Rethinking Congestion Management in Intra-host Networks  
+   IEEE Communications Magazine  
    ***Zirui Wan**, Jiao Zhang, Yuxiang Wang, Kefei Liu, Yongchen Pan, Tao Huang*
 
 -  [**INFOCOM'24**] BiCC: Bilateral Congestion Control in Cross-datacenter RDMA Networks  
