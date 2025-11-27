@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Zirui Wan (万梓睿), a fifth year Ph.D. student from Beijing University of Posts and Telecommunications (Supervisor: [Prof. Jiao Zhang](https://jiao-bupt.github.io/)). I received my bachelor's degree from Beijing University of Posts and Telecommunications in 2020.
+I am Zirui Wan (万梓睿). I received my Ph.D. degree (Supervisor: [Prof. Jiao Zhang](https://jiao-bupt.github.io/)) and bachelor's degree from Beijing University of Posts and Telecommunications in 2025 and 2020, respectively.
 
 Research Interests
 ======
@@ -16,6 +16,10 @@ Research Interests
 - Datacenter Network  
 
 # Publications
+-  [**TON'25**] HierCC: Taming Traffic Uncertainty in RDMA Data Centers with Hierarchical Congestion Control  
+   IEEE/ACM Transactions on Networking, 2025  
+   ***Zirui Wan**, Jiao Zhang, Yali Zhang, Xiaolong Zhong, Zixuan Guan, Haoyu Pan, Tian Pan, Tao Huang*
+
 -  [**TON'25**] Re-Architecting Traffic Control in Cross-Datacenter RDMA Networks  
    IEEE/ACM Transactions on Networking, 2025  
    ***Zirui Wan**, Jiao Zhang, Yuzhen Su, Haoyu Pan, Mingxuan Yu, Yuan Li, Tao Huang*
